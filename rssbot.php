@@ -11,12 +11,12 @@
 *
 */
 /* Token API Telegram. Dari @BotFather */ 
-$token = 'ABCDEFGHIJKLMNOPQRTSUVWXYZ:1234567890';
+$token = '5240327062:AAFImcsxDCiY5JS-NUkXzNR3sAxcdRL9lqo';
 
 /* Isi Dengan Grup ID */
-$chat = '-1234567890';
+$chat = '-1001726478926';
 /* Sumber RSS Feed */
-$rss = 'https://feeds.feedburner.com/personalblogid';
+$rss = 'http://www.caduceus.my.id/feeds/posts/default';
 
 /* Log Disimpan */
 $log_file = 'bot-rss.log';
