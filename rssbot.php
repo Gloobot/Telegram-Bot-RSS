@@ -28,7 +28,7 @@ $pid_file = 'bot-rss.pid';
 $wait = 120;
 
 /* Waktu */
-$max_age_articles = time() - 240;
+$max_age_articles = time() - 10;
 /* Parameter ini tidak digunakan. */
 $last_send = false;
 $last_send_title = "";
